@@ -1,4 +1,5 @@
-### Welcome! 👋
+### Welcome!, I am Craig. 👋
+## Thanks for stopping by.
 
 Here are some ideas to get you started:
 
