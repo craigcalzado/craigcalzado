@@ -1,7 +1,7 @@
 ### Welcome!, I am Craig. 👋
-## Thanks for stopping by.
+### Thanks for stopping by.
 
-Here are some ideas to get you started:
+## Here is some information to get you going.
 
 - 🔭 I’m currently working on Codeup Exercises
 - 🌱 I’m currently learning Machine Learning and AI Models
