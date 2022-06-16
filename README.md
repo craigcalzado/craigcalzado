@@ -3,10 +3,10 @@
 
 ## Here is some information to get you going.
 
-- 🔭 I’m currently working on Codeup Exercises
-- 🌱 I’m currently learning Machine Learning and AI Models
+- 🔭 I’m currently working on Data Science projects to hone my craft.
+- 🌱 I’m currently learning on how to work through the entire data science pipeline smoothing out the rough patches.
 - 👯 I’m looking to collaborate on any project at the moment.
-- 🤔 I’m looking for help with improving my code.
+- 🤔 I’m looking for help with improve my data science skills and perspectives.
 - 💬 Ask me about anything you like.
 - 📫 How to reach me: craig.a.calzado@gmail.com
 - 😄 Pronouns: He/Him
